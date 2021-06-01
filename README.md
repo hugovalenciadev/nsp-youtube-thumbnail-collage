@@ -14,3 +14,7 @@ Le dices un canal de Youtube y te genera una imagen tipo collage con las miniatu
 Con la ventaja que tienes una url que puedes incrustar en tu perfil de Github y asi tendrias las miniaturas de forma dinamica.
 
 No mas tablas.
+
+Ejemplo
+
+![ejemplo](https://3e23748c7a4a.ngrok.io/youtube/collage)
